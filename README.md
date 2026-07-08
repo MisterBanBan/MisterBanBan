@@ -53,8 +53,7 @@
 ### 📊 Stats GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MisterBanBan&show_icons=true&theme=default&hide_border=true" alt="Stats GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterBanBan&layout=compact&hide_border=true" alt="Top langages" height="165"/>
+  <img src="https://img.shields.io/github/followers/MisterBanBan?label=Followers&style=flat&logo=github" alt="Followers"/>
 </p>
 
 ---
